@@ -1,4 +1,4 @@
-module github.com/Davincible/gotiktoklive
+module github.com/ryusuke410/gotiktoklive
 
 go 1.17
 
@@ -21,4 +21,4 @@ require (
 	google.golang.org/protobuf v1.28.1
 )
 
-replace github.com/Davincible/gotiktoklive => ./
+replace github.com/ryusuke410/gotiktoklive => ./

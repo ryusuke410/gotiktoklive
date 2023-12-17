@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	pb "github.com/Davincible/gotiktoklive/proto"
+	pb "github.com/ryusuke410/gotiktoklive/proto"
 
 	"google.golang.org/protobuf/proto"
 )

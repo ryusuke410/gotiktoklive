@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/Davincible/gotiktoklive/tests"
+	"github.com/ryusuke410/gotiktoklive/tests"
 )
 
 func TestFeedItem(t *testing.T) {

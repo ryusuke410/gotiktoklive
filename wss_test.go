@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Davincible/gotiktoklive/tests"
+	"github.com/ryusuke410/gotiktoklive/tests"
 	"golang.org/x/net/context"
 )
 
